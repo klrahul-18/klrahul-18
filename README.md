@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A passionate Front-End developer from India</h3>
 
-<img alt="coding" align= "right" width= "400"
-src="![image](https://github.com/klrahul-18/klrahul-18/assets/124683906/2a664080-0811-4460-a545-5753aa8b1662)
-
-" >
+<img alt="coding" align= "right" width= "400">
+src="![image](https://github.com/klrahul-18/klrahul-18/assets/124683906/2a664080-0811-4460-a545-5753aa8b1662)" </img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klrahul-18&label=Profile%20views&color=0e75b6&style=flat" alt="klrahul-18" /> </p>
 
