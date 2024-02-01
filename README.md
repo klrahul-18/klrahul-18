@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A passionate Front-End developer from India</h3>
 
-<img alt="coding" align= "right" width= "400" height= "300"
+<img alt="coding" align= "right" width= "450" height= "400"
 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klrahul-18&label=Profile%20views&color=0e75b6&style=flat" alt="klrahul-18" /> </p>
